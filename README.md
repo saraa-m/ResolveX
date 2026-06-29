@@ -25,6 +25,9 @@ Pending-with-Customer and Rejected branches are designed in the architecture (se
 
 - **UiPath Maestro Case** — case orchestration, stage management, governance/audit trail
 - **UiPath API Workflows** — the integration layer Maestro uses to call the agent backend below
+- **UiPath DataFabric** — the db layer Maestro uses as DB
+- **UiPath Agent Builder** — the low code no code service to build agents
+- **UiPath App Service** — To build Human in the loop approval steo
 <!-- TODO: confirm/add: Agent Builder? Action Center / Task forms for the HITL approval step? Orchestrator? List every UiPath component actually used — judges score this explicitly. -->
 
 ## Agent backend (this repo)
